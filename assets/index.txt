@@ -1,1 +1,1 @@
-https://github.com/openfreeleaks/turbo-couscous/releases/download/v1.0/full.txt
+https://raw.githubusercontent.com/openfreeleaks/turbo-couscous/main/leak/full.txt
