@@ -1,1 +1,1 @@
-#add first url (leak)
+https://github.com/openfreeleaks/turbo-couscous/releases/download/v1.0/full.txt
